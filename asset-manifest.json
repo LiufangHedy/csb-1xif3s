@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://liufanghedy.github.io/csb-1xif3s/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://liufanghedy.github.io/csb-1xif3s/static/js/main.7abdde3a.chunk.js",
+    "main.js.map": "https://liufanghedy.github.io/csb-1xif3s/static/js/main.7abdde3a.chunk.js.map",
+    "runtime-main.js": "https://liufanghedy.github.io/csb-1xif3s/static/js/runtime-main.1ebc3f5b.js",
+    "runtime-main.js.map": "https://liufanghedy.github.io/csb-1xif3s/static/js/runtime-main.1ebc3f5b.js.map",
+    "static/js/2.b9b26f43.chunk.js": "https://liufanghedy.github.io/csb-1xif3s/static/js/2.b9b26f43.chunk.js",
+    "static/js/2.b9b26f43.chunk.js.map": "https://liufanghedy.github.io/csb-1xif3s/static/js/2.b9b26f43.chunk.js.map",
+    "index.html": "https://liufanghedy.github.io/csb-1xif3s/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://liufanghedy.github.io/csb-1xif3s/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b9b26f43.chunk.js.LICENSE.txt": "https://liufanghedy.github.io/csb-1xif3s/static/js/2.b9b26f43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ebc3f5b.js",
+    "static/js/2.b9b26f43.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7abdde3a.chunk.js"
+  ]
+}
